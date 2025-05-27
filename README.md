@@ -1,6 +1,6 @@
 # 💼 HR + Performance Dashboard | Power BI Project
 
-![Power BI](https://app.powerbi.com/view?r=eyJrIjoiYTQ1MzFmOGItMTgwNi00ZjIyLTk3YWItNGJkZGMwMTcyYzY1IiwidCI6IjQ4M2UzNzk4LWMyMGItNDliMS04YTU5LTQzY2M4YjE2ODkzMCJ9)
+[Dashborad](https://app.powerbi.com/view?r=eyJrIjoiYTQ1MzFmOGItMTgwNi00ZjIyLTk3YWItNGJkZGMwMTcyYzY1IiwidCI6IjQ4M2UzNzk4LWMyMGItNDliMS04YTU5LTQzY2M4YjE2ODkzMCJ9)
 
 ## 📊 Project Overview
 
@@ -67,11 +67,10 @@ Designed for **HR teams, management, and data analysts**, this dashboard blends 
 
 ## 📸 Dashboard Previews
 
-> *(Replace the links below with your screenshots or YouTube video)*
 
 | HR Dashboard | Performance Dashboard |
 |--------------|------------------------|
-| ![HR Dashboard](Screenshots/HR.png) | ![Performance Dashboard](Performance.png) |
+| ![HR Dashboard](Screenshot/HR.png) | ![Performance Dashboard](Screenshot/Performance.png) |
 
 ---
 
@@ -85,3 +84,5 @@ Designed for **HR teams, management, and data analysts**, this dashboard blends 
 │   └── HR.png
 |   └── Performance.png
 └── 📄 README.md
+
+
