@@ -85,4 +85,22 @@ Designed for **HR teams, management, and data analysts**, this dashboard blends 
 |   └── Performance.png
 └── 📄 README.md
 
+```
+---
+
+## 🔧 How to Use
+
+1. **Clone this repo:**
+
+   ```bash
+   git clone https://github.com/manishsarmaa/HR-Performance-Dashboard.git
+   ```
+
+---
+
+## 🙌 Let's Connect
+
+If you like this project, don't forget to ⭐️ the repo and follow me!
+
+* 💼 **X:** [Manish Sharma](https://x.com/manishsarmaa)
 
