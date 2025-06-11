@@ -10,6 +10,18 @@ Designed for **HR teams, management, and data analysts**, this dashboard blends 
 
 ---
 
+
+## 📸 Dashboard Previews
+
+
+| HR Dashboard | Performance Dashboard |
+|--------------|------------------------|
+| ![HR Dashboard](Screenshot/HR.png) | ![Performance Dashboard](Screenshot/Performance.png) |
+
+
+---
+
+
 ## 🚀 Features & Highlights
 
 ### ✅ **HR Dashboard Section**
@@ -65,14 +77,6 @@ Designed for **HR teams, management, and data analysts**, this dashboard blends 
 
 ---
 
-## 📸 Dashboard Previews
-
-
-| HR Dashboard | Performance Dashboard |
-|--------------|------------------------|
-| ![HR Dashboard](Screenshot/HR.png) | ![Performance Dashboard](Screenshot/Performance.png) |
-
----
 
 ## 📁 File Structure
 
